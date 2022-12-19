@@ -1,1 +1,1 @@
-# book-go-postgres-crud
+# api-book-go-postgres
